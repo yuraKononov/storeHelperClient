@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelperClient</string>
+    <string name="other_product">Другие товары:</string>
+    <string name="google_maps_API_key">AIzaSyBcLfdXsyA3WRacWm7cwPc-DURFZ7kBc50</string>
+</resources>
